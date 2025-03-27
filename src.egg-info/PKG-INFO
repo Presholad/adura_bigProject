@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for ML app
+Home-page: https://github.com/adura/Books-Recommender-System-Using-Machine-Learning
+Author: adura
+Author-email: gbemi12344@gmail.com
+Project-URL: Bug Tracker, https://github.com/adura/Books-Recommender-System-Using-Machine-Learning/issues
+Requires-Python: >=3.7
+
+# Books-Recommender-System-Using-Machine-Learning
